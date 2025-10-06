@@ -1,5 +1,5 @@
-# 💻 EVERPIA  **TechNova Solutions**  
-**Transformant idees en solucions digitals**
+# 💻 EVERPIA   
+
 
 ---
 
