@@ -3,8 +3,8 @@
 
 ---
 
-## 🌟 Visió del Projecte
-Ajudar les empreses a **optimitzar els seus processos** i **digitalitzar el seu negoci** mitjançant solucions innovadores de programari, ciberseguretat i anàlisi de dades.
+## 🌟 Introducció
+Benvinguts el projecte everpia, on treballarem conjuntament en equip per oferir solucions tecnològiques.
 
 ---
 
@@ -16,23 +16,6 @@ Ajudar les empreses a **optimitzar els seus processos** i **digitalitzar el seu 
 
 ---
 
-## 🛠️ Serveis Proposats
-- **Desenvolupament de programari a mida**  
-- **Ciberseguretat i protecció de dades**  
-- **Consultoria en migració al núvol**  
-- **Business Intelligence & Data Analytics**  
-
----
-
-## 📅 Fases del Projecte
-1.  **Anàlisi i diagnosi** (setmana 1-2)  
-2. **Disseny de la solució** (setmana 3-4)  
-3.  **Implementació i proves** (setmana 5-8)  
-4.  **Formació i suport** (setmana 9)  
-5.  **Entrega i acompanyament**
-
----
-
 ##  Equip de Treball
 -  **Consultor Tècnic:** Desenvolupament i arquitectura  
 -  **Especialista en Seguretat:** Protecció i protocols  
@@ -41,5 +24,4 @@ Ajudar les empreses a **optimitzar els seus processos** i **digitalitzar el seu 
 
 ---
 
-##  Conclusió
-Amb **TechNova Solutions**, les empreses no només digitalitzen processos, sinó que guanyen **eficiència, seguretat i visió estratègica** per al futur.
+
