@@ -17,10 +17,10 @@ Benvinguts el projecte everpia, on treballarem conjuntament en equip per oferir 
 ---
 
 ##  Equip de Treball
--  **Consultor Tècnic:** Desenvolupament i arquitectura  
--  **Especialista en Seguretat:** Protecció i protocols  
--  **Analista de Dades:** Informes i estratègia  
--  **Gestor de Projectes:** Coordinació i comunicació amb el client
+-  (Aran) **Consultor Tècnic:** Desenvolupament i arquitectura  
+-  (ferran) **Especialista en Seguretat:** Protecció i protocols   
+-  (Xavier) **Gestor de Projectes:** Coordinació i comunicació amb el client
+  
 
 ---
 
