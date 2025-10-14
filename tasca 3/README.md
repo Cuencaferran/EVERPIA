@@ -50,5 +50,6 @@ ls /home
 
 
 ---
--^[torna a la pagina principal](/)
+-[torna a la pagina principal](/)
+
 
