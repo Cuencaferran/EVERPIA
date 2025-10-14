@@ -47,3 +47,8 @@ Un cop accedit al sistema en mode single-user:
 ```bash
 ls /home
 
+
+
+---
+-^[torna a la pagina principal](/)
+
