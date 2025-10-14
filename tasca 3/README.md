@@ -40,16 +40,11 @@ Per evitar qualsevol dany al sistema original, el disc ha estat clonat en un dis
 - Buscar la línia que comença amb `linux` i afegir al final la paraula `single` o `init=/bin/bash`.
 - Prémer `Ctrl + X` o `F10` per iniciar amb la modificació.
 
-#### Identificar l’usuari existent
-
-Un cop accedit al sistema en mode single-user:
-
-```bash
-ls /home
 
 
 
 ---
 -[torna a la pagina principal](/)
+
 
 
